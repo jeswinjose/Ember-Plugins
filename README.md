@@ -12,7 +12,7 @@ The plugins currently supported are
      
      
 ## Licence
-Copyright (c) 2013 Jeswin Jose and contributors
+Copyright (c) 2014 Jeswin Jose and contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
