@@ -5,10 +5,16 @@ Ember Js is a MVC framework for creating Ambitious web applications(http://ember
 
 The plugins currently supported are 
 
-1) Infinite scrolling using emberJS.
+##Infinite scrolling using emberJS.
      Use infinite-scrolling-view.js for infinite scrolling support in your application ,mix this mixin into the particular view you want to get noted when scroll bar reaches bottom of the particular view.It calls getMore function (that your view should impliment) when scrollbar reaches the end so that you can populate more data to the view as needed.
      
-     
+
+## D3 Chart Components
+
+Currently we support the following D3 Chart types for Ember JS
+1) Donut Chart 
+2) Horizontal bar chart
+3) Bubble chart
      
      
 ## Licence
